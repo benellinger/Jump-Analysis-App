@@ -3,7 +3,8 @@ This application imports data from Noraxons MR3 and caluclates Jump Parameters. 
 
 Import Files need to be CSV.
 
-To run the application type 'python main.py' in terminal.
+To run the application type `python main.py` in terminal.
 
 This is the GUI:
+
 ![](https://github.com/benellinger/Jump-Analysis-App/blob/main/images/example.PNG)
